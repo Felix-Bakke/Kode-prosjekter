@@ -1,0 +1,150 @@
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    font-family: "Lobster", sans-serif;
+    font-size: 3vh;
+    border-radius: 10px;
+}
+
+
+
+.header ul{
+list-style: none;
+display: flex;
+gap: 60px;
+}
+
+
+
+.sec1{
+    height: 35vh;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    justify-content:space-around;
+    gap:17vh;
+    margin:3vh 2vh 3vh 2vh;
+    
+}
+article{
+    background-size: cover;
+    background-position: center;
+    flex:1;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    color: rgb(0, 0, 0);
+    font-size: 100%;
+    transition: 1s;
+    border-radius: 20px 20px 20px 20px;
+    font-family: "Lobster", sans-serif;
+}
+article:hover{
+    flex:1.5;
+    font-size: 130%;
+}
+.en{
+    background-color: black;
+    background-image: url("1.jpg");
+    color: white;
+    text-shadow: rgb(0, 0, 0) 2px 2px 1px;
+    
+}
+.to{
+    background-image: url("2.jpg");
+    text-shadow: rgba(0, 0, 0, 0.482) 1px 1px 1px;
+}
+.tre{
+    
+    background-image: url("3.jpg");
+    text-shadow: rgba(0, 0, 0, 0.217) 1px 1px 1px;
+    
+}
+
+.fire{
+    background-image: url("4.jpg");
+    text-shadow: rgba(0, 0, 0, 0.217) 1px 1px 1px;
+
+}
+
+.fem{
+    background-image: url("5.jpg");
+    text-shadow: rgba(0, 0, 0, 0.217) 1px 1px 1px;
+
+}
+
+
+.sec2{
+    display: flex;
+    background-color: rgb(54, 163, 163);
+    border-radius: 7px;
+    }
+
+
+marquee{
+color:rgb(207, 184, 114);
+font-weight: bold;
+font-size: 250%;
+transition: 2s;
+font-family: "Lobster", sans-serif;
+}
+
+
+body{
+background-color: rgb(250, 245, 237);
+font-family:Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+html {
+    scroll-behavior: smooth;
+   }
+   
+   a {
+    text-decoration: none;
+    color: black;
+    background-color: antiquewhite;
+    
+   } 
+   
+   #down {
+    margin-top: 50%;
+    padding-bottom: %;
+   } 
+
+   #kids{
+    display: flex;
+background-color: #3E4578;
+height: 7vh;
+align-items: center;
+border-radius: 7px;
+color: #DD992B;
+   }
+
+
+
+
+   .footer{
+    background-color: black;
+    height: 300px;
+    border-radius: 20px 20px 0px 0px;
+
+
+
+   }
