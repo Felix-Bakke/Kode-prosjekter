@@ -1,0 +1,15 @@
+
+
+.sec1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    height: 100vh;
+}
+
+
+#title1{
+color:white;
+font-size: 3.25rem;
+}

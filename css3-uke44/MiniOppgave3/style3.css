@@ -1,0 +1,28 @@
+
+
+.sec1{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: orange;
+height: 100vh;
+flex-direction:column;
+
+
+}
+
+
+
+
+#tittle1{
+color:white;
+font-size: 3.25rem;
+
+}
+
+#undertext1{
+color: white;
+margin-top: -35px;
+
+
+}

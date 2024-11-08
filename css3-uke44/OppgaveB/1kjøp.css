@@ -1,0 +1,78 @@
+
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    font-family: "Lobster", sans-serif;
+    font-size: 3vh;
+    border-radius: 10px;
+}
+.header ul{
+list-style: none;
+display: flex;
+gap: 60px;
+}
+
+
+    
+
+    a {
+        text-decoration: none;
+        color: black;
+        background-color: rgb(255, 255, 255);
+        
+       } 
+
+body{
+    background-color: rgb(250, 245, 237);
+    font-family:Arial, Helvetica, sans-serif;
+    }
+
+
+
+
+.sec1{
+    margin: 1% 5% 0% 5%;
+    height: 85vh;
+    background-color: rgb(208, 190, 169);
+    display: flex;
+    border-radius: 15px;
+    gap: 20%;
+}
+article{
+    background-size: cover;
+    background-position: center;
+    flex:1;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    color: rgb(255, 255, 255);
+    font-size: 75%;
+    transition: 1s;
+    border-radius: 15px;
+
+}
+
+
+
+
+.en{
+    margin: 80px 80px 80px 80px;
+    background-color: black;
+    background-image: url("1.jpg");
+    color: white;
+    text-shadow: rgb(0, 0, 0) 2px 2px 1px;
+    
+}
+
+
+.to{
+display: flex;
+justify-content: center;
+
+align-items: center;
+font-size: 3vh;
+color:black;
+font-family: "Lobster", sans-serif;
+}

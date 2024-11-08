@@ -1,0 +1,25 @@
+.sec1{
+display: flex;
+justify-content: space-evenly;
+
+background-color: rgba(224, 179, 31, 0.895);
+font-size: 100px; 
+height: 7.25rem;
+
+
+}
+
+
+
+
+
+div {
+color:white; 
+background-color: rgb(71, 71, 162);
+
+
+}
+
+
+
+

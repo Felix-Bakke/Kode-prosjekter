@@ -1,0 +1,54 @@
+.sec1{
+    height: 68vh;
+    background-color: rgba(0, 0, 0, 0);
+    display: flex;
+    border-radius: 15px;
+}
+article{
+    background-size: cover;
+    background-position: center;
+    flex:1;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    color: rgb(0, 0, 0);
+    font-size: 75%;
+    transition: 1s;
+    border-radius: 15px;
+}
+article:hover{
+    flex:3;
+    font-size: 130%;
+}
+.en{
+    background-image: url("1.jpg");
+    color: white;
+    text-shadow: rgb(0, 0, 0) 2px 2px 1px;
+}
+.to{
+    background-image: url("2.jpg");
+    text-shadow: rgba(0, 0, 0, 0.482) 1px 1px 1px;
+}
+.tre{
+    background-image: url("3.jpg");
+    text-shadow: rgba(0, 0, 0, 0.217) 1px 1px 1px;
+}
+.sec2{
+    display: flex;
+    
+    }
+
+
+marquee{
+color:rgb(135, 120, 75);
+font-weight: bold;
+font-size: 250%;
+transition: 2s;
+}
+
+
+body{
+background-color: rgb(250, 245, 237);
+
+}
+
